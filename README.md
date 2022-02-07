@@ -1,6 +1,6 @@
 # songs
 
-A new Flutter project.
+Displays pages of songs with the chords and some reminder lyrics
 
 ## Getting Started
 
